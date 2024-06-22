@@ -1,4 +1,4 @@
-# RedblueUGCBotRewrite
+# Redblue UGC Bot Rewrite
 This repository contains a rewritten and reorganized version of the RedblueUGCBot.
 
 ## Overview
